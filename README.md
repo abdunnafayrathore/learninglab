@@ -1,3 +1,3 @@
 # learninglab
 
-This GitHub Repository contains my learning code (The code used for learning purposes).
+This GitHub Repository contains the code I use for learning purposes.
